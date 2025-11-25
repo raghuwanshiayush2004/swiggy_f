@@ -23,7 +23,7 @@ function Header() {
   }
 
   return (
-    <div className="flex justify-between px-8 border-b border-slate-400 dark:bg-gray-900 text-white">
+    <div className="flex justify-between px-8 border-b border-slate-400 dark:bg-gray-900 text-blue">
       <img
         src="https://png.pngtree.com/template/20200610/ourmid/pngtree-food-delivery-logo-design-image_381319.jpg"
         alt=""
